@@ -1,6 +1,6 @@
 # todolist
 
-A new Flutter project.
+This is a Todo App built in Flutter project with firebase connectivity.
 
 ## Getting Started
 
