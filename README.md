@@ -1,6 +1,6 @@
 # todolist
 
-This is a Todo App built in Flutter project with firebase connectivity.
+This is a Todo App built in Flutter project with firebase connectivity. For Firebase Connectivity you need to have your own google services json file. The Database used here is Firebase Firestore.
 
 ## Getting Started
 
